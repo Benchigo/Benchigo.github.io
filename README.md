@@ -1,1 +1,1 @@
-# Benchigo.github.io
+Hi, I’m Benard Chigonga. I have a PhD in Mathematics Education, and I design challenging maths tasks to test how AI models reason, not just whether they get the right answer. I use Python for mathematical modelling and have built full-stack projects including Gazetteer and Company Directory. I’m interested in building ML tools that help us understand where AI reasoning breaks down and how to make it more reliable.
